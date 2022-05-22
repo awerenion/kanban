@@ -1,4 +1,4 @@
-# Canban App
+# Kanban App
 
 ## Versions
 
