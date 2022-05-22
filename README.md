@@ -1,4 +1,4 @@
-# Table App
+# Canban App
 
 ## Versions
 
